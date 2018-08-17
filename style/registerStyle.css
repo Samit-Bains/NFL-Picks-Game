@@ -1,0 +1,37 @@
+.wrapper{
+    background:linear-gradient(0deg,#43cea2 0,#185a9d 100%);
+}
+
+h2{
+    font-family:Catamaran;
+	font-weight:800!important
+}
+
+.regForm{
+    padding-top: 15%;
+    height: 100vh;
+}
+
+.bg-black{
+	background-color:#000!important
+}
+
+.navbar-custom{
+	padding-top:1rem;
+	padding-bottom:1rem;
+	background-color:rgba(0,0,0,.7)
+}
+
+.navbar-custom .navbar-brand{
+	text-transform:uppercase;
+	font-size:1rem;
+	letter-spacing:.1rem;
+	font-weight:700
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link{
+	text-transform:uppercase;
+	font-size:.8rem;
+	font-weight:700;
+	letter-spacing:.1rem
+}
