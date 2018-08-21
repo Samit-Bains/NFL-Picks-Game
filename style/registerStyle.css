@@ -13,7 +13,11 @@ h2{
 }
 
 .bg-black{
+<<<<<<< HEAD
     background-color:#000!important;
+=======
+	background-color:#000!important
+>>>>>>> 4a80673d9bcceeea10d19c460e55488f50da9730
 }
 
 .navbar-custom{

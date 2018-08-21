@@ -11,7 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="style/registerStyle.css">
+<<<<<<< HEAD
     <link rel="stylesheet" type="text/css" href="style/welcomeStyle.css">
+=======
+>>>>>>> 4a80673d9bcceeea10d19c460e55488f50da9730
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
@@ -39,11 +42,16 @@
         </div>
     </nav>
 
+<<<<<<< HEAD
     <div class="container-fluid pageContainer">
+=======
+    <div class="container-fluid">
+>>>>>>> 4a80673d9bcceeea10d19c460e55488f50da9730
         <br>
         <br>
         <br>
         <br>
+<<<<<<< HEAD
         <div class="row">
             <div class="col-sm-4">
                 <div class="card mb-3 col-md-12">
@@ -93,6 +101,10 @@
                 </ul>
             </div>
         </div> 
+=======
+        <br>
+        <h1>Welcome</h1>
+>>>>>>> 4a80673d9bcceeea10d19c460e55488f50da9730
     </div>
 
     <!-- Footer -->
