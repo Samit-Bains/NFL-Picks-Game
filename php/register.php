@@ -14,7 +14,11 @@
 
             //If the query is successful, user is redirected to login page
             if($db->query($sql) === true){
+<<<<<<< HEAD
                 header("Location: loginPage.php");
+=======
+                header("Location: ../loginPage.php");
+>>>>>>> 8de4ecb9803d9c1e66cc6b48bb702ee942c9b92b
             }
         }
     }
